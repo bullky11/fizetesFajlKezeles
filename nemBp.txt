@@ -1,4 +1,0 @@
-SzemelyesAdat{nev=Nagy Jakab, kor=34, cim=Miskolc, fizetes=335000}
-SzemelyesAdat{nev=Tamás János, kor=31, cim=Tokaj, fizetes=350000}
-SzemelyesAdat{nev=Kaposi Fanni, kor=27, cim=Nyiregyháza, fizetes=310000}
-SzemelyesAdat{nev=Ele Sándor, kor=19, cim=Sárospatak, fizetes=375000}

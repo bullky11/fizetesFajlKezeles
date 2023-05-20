@@ -1,0 +1,7 @@
+NÉV;KOR;CÍM;FIZETÉS
+Nagy Jakab;34;Miskolc;335000
+Tamás János;31;Tokaj;350000
+Kiss Péter;24;Budapest;340000
+Kaposi Fanni;27;Nyiregyháza;310000
+Tumpek Péter;27;Budapest;1000000
+Ele Sándor;19;Sárospatak;375000
